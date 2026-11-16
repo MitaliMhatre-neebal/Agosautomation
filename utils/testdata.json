@@ -1,0 +1,19 @@
+[
+
+    {
+
+        "username":"Admin",
+
+        "password":"Admin123"
+
+    },
+
+    {
+
+        "username":"User1",
+
+        "password":"Test123"
+
+    }
+
+]
